@@ -1,4 +1,5 @@
-public class vetorString {
+package sp1_aula4;
+public class ps1_aula4 {
     public static void main(String[] args) {
         String[] vet = new String[]{"joão", "Ana", "Maria" };    
         System.out.println("Os nomes informados foram: ");
